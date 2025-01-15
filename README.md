@@ -2,7 +2,7 @@ Software: R version 4.4.1
 
 Installation Instructions: Place all files in a directory
 
-This project produce the main results in the manuscript entitled "Fighting fire with fires: the fire-fuel feedback effect in Canadian forests".
+This project produces the main results in the manuscript entitled "Fighting fire with fires: the fire-fuel feedback effect in Canadian forests".
 
 1. Calculating NSDmax.R
 This script derives number of realized spread days (NSD) for each fire event and annual maximum NSD (NSDmax) based on fire growth data.
